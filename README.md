@@ -13,7 +13,7 @@
 * [UX](https://github.com/remotejobsbr/design-ux-vagas)
 * [Datascience](https://github.com/datascience-br/vagas)
 
-* [Vagas-Remotas] https://github.com/remotejobsbr/trabalho-remoto-vagas
+* [Vagas-Remotas](https://github.com/remotejobsbr/trabalho-remoto-vagas)
 
 ### Twitter
 
