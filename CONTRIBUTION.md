@@ -12,8 +12,6 @@ Você é bem vind@ para adicionar mapas mentais ao repositório.
 
 ### Guias
 
-- Mapas mentais devem ser escritos em português.
+- Vagas devem ser escritas em português.
 
-- Somente arquivos em formato PDF, JPG ou PNG são aceitos.
-
-- Você pode criar novas pastas ou renomear as existentes, se necessário.
+- Somente links são aceitos.
